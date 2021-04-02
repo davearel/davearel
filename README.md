@@ -1,6 +1,6 @@
-## 🄰🄱🄾🅄🅃🅼🅴
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-### Hi there, 👋 I'm Dave ➪
+> ## 🄰🄱🄾🅄🅃🅼🅴
+
+### 👋 Hi there, I'm Dave 
 <!--
 **davearel/davearel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +20,10 @@ I'm formerly the Co-Founder & CTO of [Codeverse](https://www.codeverse.com/)/[Am
 
 You can usually find me most places under `@davearel` —
 
-[🌐 davearel.com](https://www.davearel.com/) •
-[💼 LinkedIn](https://www.linkedin.com/in/davearel/) •
-[🐥 Twitter](https://twitter.com/davearel) •
-[📸 Instagram](https://www.instagram.com/davearel/)
+> 🌐 [davearel.com](https://www.davearel.com/) •
+[LinkedIn](https://www.linkedin.com/in/davearel/) •
+[Twitter](https://twitter.com/davearel) •
+[Instagram](https://www.instagram.com/davearel/)
 
 
 
