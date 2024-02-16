@@ -2,36 +2,32 @@
 
 ### 👋 Hi there, I'm Dave 
 <!--
-**davearel/davearel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-I'm formerly the Co-Founder & CTO of [Codeverse](https://www.codeverse.com/)/[Americademy](https://www.americademy.com/), Roniin (now [Builders.VC](https://www.builders.vc/)), and Chefmade (Acquired by [Cooked](https://eatcooked.us/)). Previous to that, I was the Director of Product at [Belly](https://www.bellycard.com/) (Acquired by Mobivity), and Principal Developer at [A+TOM](https://www.theatomgroup.com/).
+Former Founder & CTO of [Codeverse](https://www.codeverse.com/)/[Americademy](https://www.americademy.com/) (Acquired by [NYSE: NRDY](https://www.google.com/search?q=NYSE%3A+NRDY&sourceid=chrome&ie=UTF-8)), Roniin (now [Builders.VC](https://www.builders.vc/)), and Chefmade (Acquired by [Cooked](https://eatcooked.us/)). Previous to that, I was the Director of Product at [Belly](https://www.bellycard.com/) (Acquired by Mobivity), and Principal Developer at [A+TOM](https://www.theatomgroup.com/).
 
-You can usually find me most places under `@davearel` —
+- 💬 Ask me about startups, assembling elite engineering teams, product and engineering strategy, and optimizing engineering team performance
 
-> 🌐 [davearel.com](https://www.davearel.com/) •
+- 📫 How to reach me: [davearel.com](https://www.davearel.com/) •
 [LinkedIn](https://www.linkedin.com/in/davearel/) •
+[Dribbble](https://dribbble.com/davearel) •
 [Twitter](https://twitter.com/davearel) •
 [Instagram](https://www.instagram.com/davearel/)
 
+---
 
-
-░ ░ ░ ░ ░ ░ ░ ░ ░
-
-
-
-<table >
+<table>
   <body>
     <tr>
       <!-- Intro -->
